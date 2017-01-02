@@ -16,8 +16,8 @@ pip install python-telegram-bot redis
 
 Environment vars:
 
-TELEGRAM_TOKEN
-THECATAPI_KEY
-REDIS_HOST
-REDIS_PORT
-REDIS_DB
+- TELEGRAM_TOKEN
+- THECATAPI_KEY
+- REDIS_HOST
+- REDIS_PORT
+- REDIS_DB
