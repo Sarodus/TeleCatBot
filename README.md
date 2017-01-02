@@ -10,8 +10,7 @@ Requirements to launch:
 
 
 Python requeriments:
-
-pip install python-telegram-bot redis
+pip install -r requirements.txt
 
 
 Environment vars:
