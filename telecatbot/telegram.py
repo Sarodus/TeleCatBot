@@ -1,11 +1,8 @@
 import logging
 
 from telegram import KeyboardButton, ReplyKeyboardMarkup
-from telegram import InlineQueryResultArticle, InputTextMessageContent
-from telegram.ext import Updater
-from telegram.ext import MessageHandler, Filters
-from telegram.ext import CommandHandler
-from telegram.ext import InlineQueryHandler
+from telegram.ext import Updater, MessageHandler, Filters, CommandHandler
+
 from .config import TELEGRAM_TOKEN
 from .cache import cache
 
