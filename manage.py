@@ -1,4 +1,4 @@
-from telecatbot.telegram import TeleCatBot
+from telecatbot.bot import TeleCatBot
 from telecatbot.thecatapi import CatAPI
 
 
